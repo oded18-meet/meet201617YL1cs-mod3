@@ -14,7 +14,7 @@ my_user.print_secret('mejgzdfufgz')
 <<<<<<< HEAD
 my_user.
 '''
-
+# to be contion3
 from student import Student
 
 oded = Student('oded','Shimshit',16,1.60,'vanilla')
