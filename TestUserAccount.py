@@ -1,3 +1,4 @@
+'''
 #This script performs some simple tests on the UserAccount class.
 from UserAccount import UserAccount
 
@@ -10,5 +11,16 @@ my_user=UserAccount('oded18-meet','meetyear18','i_love_cats')
 my_user.print_secret('mejgzdfufgz')
 
 #Use the right password here
+<<<<<<< HEAD
+my_user.
+'''
+
+from student import Student
+
+oded = Student('oded','Shimshit',16,1.60,'vanilla')
+
+oded.print_summary()
+=======
 my_user.print_secret('meetyear18')
 
+>>>>>>> fed030ff5a83392ea2ee6875b41d5a2da861b760
